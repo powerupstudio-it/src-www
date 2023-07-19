@@ -1,0 +1,86 @@
+{{ $md := .Site.Params.body_is_markdown | default false }}
+
+{{ with .Site.Params.one }}
+{{ if .enable }}
+	<section id="one" class="wrapper style1 special">
+		<div class="inner">
+			<header class="major">
+        <h2>{{ .title | safeHTML}}</h2>
+
+        {{ partial "body_text.html" (dict "context" . "md" $md) }}
+			</header>
+			
+<!--			<ul class="icons major">
+        {{ range .icon }}
+        <li><span class="icon {{ .icon }} major style{{ .style }}"><span class="label">{{ .label }}</span></span></li>
+        {{ end }}
+			</ul>
+-->
+		</div>
+	<section id="pricing">
+		<div class="container">
+	  	<section id="pricing">
+			<div class="container">
+		  	  <div class="pricing-table">
+				<div class="pricing-column">
+					<div class="pricing-header">
+				   	<h3>Primo Contatto</h3>
+					<div class="price">€50,00</div>
+					</div>
+					<div class="special-discount"><u>SOLO PER I NUOVI ARRIVI</u></div></br>
+				 	<ul class="features2">
+					<li>2 Ore su 4 sono OMAGGIO</li>
+					<li>4 Ore in Sala</li>
+					<li>Tecnico di Sala</li>
+					<li>Introduzione alle Venues</li>
+					<li>Primo Sound-Check</li>
+					<li>Regolazione Volumi</li>
+					<li>Scheda Tecnica</li>
+					<li>Registrazione Podcast</li>
+					</ul></br>
+					<a href="https://calendly.com/powerupstudio/primo-contatto" target="_blank" class="button primary">Prenota!</a>
+			  	</div>
+			  	<div class="pricing-column">
+					<div class="pricing-header">
+				  	<h3>1 Ora di registrazione</h3>
+					<div class="price">€25,00</div>
+					</div>
+					<div class="special-discount"><u>Promo: registrare @Interno-Zero è GRATIS</u></div>	
+				  	<ul class="features2">
+					<li>Blocco min. 4 Ore</li>
+					<li>Venue: Interno-Zero </li>
+					<li>Tecnico di Sala</li>
+					<li>Regolazione Volumi</li>
+					<li>Scheda Tecnica</li>
+					<li>Registrazione Podcast</li>
+					<li>Acqua Fresca e Caffé</li>
+					<li>BYOD: Porta il tuo device</li>
+				    </ul><br>
+					<a href="https://calendly.com/powerupstudio/sessione-da-4-ore" target="_blank" class="button primary">Prenota!</a>
+			 	</div>
+			 	<div class="pricing-column">
+			  		<div class="pricing-header">
+					<h3>1 Ora @The Box</h3>
+					<div class="price">€75,00</div>
+			  		</div>
+    				<div class="special-discount"><u>Non sempre disponibile!</u></div></br>
+			  		<ul class="features2">
+					<li>Blocco min. 2 Ore</li>
+					<li>Venue: The B0X </li>
+					<li>Tecnico di Sala</li>
+					<li>Regolazione Volumi</li>
+					<li>Scheda Tecnica</li>
+					<li>Registrazione Podcast</li>
+					<li>Acqua Fresca e Caffé</li>
+					<li>BYOD: Porta il tuo device</li>
+				    </ul><br>
+				    <a href="https://calendly.com/powerupstudio/sessione-di-2-ore" target="_blank" class="button primary">Prenota!</a>
+				</div>
+		  	</div>
+		</div>
+		</section>
+		</div>
+	</section>
+</section>
+	{{ end }}
+{{ end }}

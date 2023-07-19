@@ -1,0 +1,15 @@
+
+<section id="banner">
+  <img src="/img/banner.jpg" alt="Header Image" class="header-image">
+	<div class="inner">
+    <p>{{ .Site.Params.pretitle | safeHTML }}</p>
+    <h2>{{ .Site.Params.fancytitle | safeHTML }}</h2>
+    <p>{{ .Site.Params.description | safeHTML }}</p>
+    {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
+		<ul class="actions special">
+      <li><a href="{{ .Site.Params.StartbuttonLink }}" target="_blank" class="button primary">{{ .Site.Params.StartbuttonText }}</a></li>
+		</ul>
+    {{ end }}
+	</div>
+  <a href="{{ .Site.Params.ScrollyLink }}" class="more scrolly">{{ i18n "learnmore" }}</a>
+</section>

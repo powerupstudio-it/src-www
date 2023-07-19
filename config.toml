@@ -1,0 +1,127 @@
+baseURL = 'http://powerupstudio.it/'
+multilanguage = true
+languageCode = 'it'
+defaultContentLanguage = "it"
+title = '-- Power-Up Studio --'
+theme = 'spectral'
+[params]
+staticDir = ['/static']
+pretitle = 'ben arrivati'
+fancyTitle = "Power-Up Studio" # title for frontpage, may include image
+copyright = 'Website by <a href="//repetitive.it">repetitive.it</a>'
+description = 'Nel Posto Dove si registrano i Podcast.'
+startbuttonText = "Prenota Ora!"
+startbuttonLink = "https://calendly.com/powerupstudio"
+ScrollyLink = "#two"
+body_is_markdown = true
+#custom_css = "foo.css"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+# Right menu
+[[params.menu.main]]
+url = '/'
+title = "Sieti Arrivati!"
+[[params.menu.main]]
+url = '#one'
+title = "Il Controvalore"
+[[params.menu.main]]
+url = '/posts'
+title = "Cosa Succede In Studio"
+[[params.menu.main]]
+url = '#two'
+title = "Dove Far Sentire La Voce"
+[[params.menu.main]]
+url = '#contact'
+title = "Parla Con Noi"
+
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
+[params.one]
+enable = true
+title = 'Controvalore'
+body = '''
+Impegno/Passione/Professionalità
+'''
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/pic01.jpg"
+title = 'Venue 1 - Interno Zero'
+body = 'Uno spazio polifunzionale utilizzato di giorno come Shared Office e la sera come studio. Adatto per registrazioni Podcast e Radio; può ospitare fino a 3 persone ed eventi remoti'
+
+[[params.two.section]]
+img = "img/pic02.jpg"
+title = 'Venue 2 - The B0X'
+body = 'Una sala insonorizzata di 10 mq con aria forzata e pannelli fonoassorbenti. Adatto per registrazioni di tipo più musicale come strumenti acustici in presa panoramica e cantato'
+
+[params.three]
+enable = true
+title = 'Cosa trovi da Power-Up Studio'
+body = '''
+Serietà e professionalità innanzitutto, strumenti di registrazione ben curati, regolarmente testati, studi puliti e curati.
+Se questo non bastasse ecco una lista di tutto quello che ci impegniamo a fare per i nostri clienti
+'''
+
+[[params.three.feature]]
+icon = "solid fa-broadcast-tower"
+title = "Prenota e Registra!"
+body = "Facile, veloce, ed immediato! Prenota una sessione, arriva con una decina di minuti di anticipo e dopo aver sistemato/re-impostato i volumi, sarai in grado di cominciare a registrare il tuo podcast in men che non si dica."
+
+[[params.three.feature]]
+icon = "solid fa-headset"
+title = "Registra i tuoi ospiti Live o da Remoto"
+body = "Grazie alla connessione in fibra ottica che ci garantisce una banda molto larga ed alla nostra esperienza sarà facile e veloce registrare fino a 3 persone Live in studio ed avere anche ospiti collegati da Remoto!"
+
+[[params.three.feature]]
+icon = "solid fa-laptop"
+title = "Eat-In o Take-Away?"
+body = "Scegli la formula che preferisci: lavora con noi all'editing usufruendo di un appoggio tecnico e di un 'oreccho' esterno, oppure se preferisci porta un supporto digitale per portare via i files RAW ed editarli come più ti piace! "
+
+[[params.three.feature]]
+icon = "solid fa-headphones-alt"
+title = "Ascolta tutto  quello che registri!"
+body = "Tieni sempre un orecchio su quello che registri, e su i volumi di ogni voce che si aggiunge al tuo Podcast. In ognuna delle nostre location potrai usufruire di cuffie monitor esattamente come tu fossi in Radio."
+
+[[params.three.feature]]
+icon = "solid fa-microphone-alt"
+title = "Non Solo Podcast!"
+body = "Non si vive solo di Podcast, ed in caso tu volessi registrare una trasmissione radiofonica in differita, un jingle cantato e suonato con strumenti acustici e non, possiamo fornire una sala registrazione per soddisfare le tue esigenze."
+
+[[params.three.feature]]
+icon = "solid fa-bullhorn"
+title = "Non dimentichiamoci..."
+body = "Abbiamo a disposizione un campionatore per 'giocare con i suoni' e dare un pizzico di spirito alle tue trasmissioni (programmabile con una scheda micro SD), microfoni a condensatore e cardioide per la riduzione del rumore, ed ambienti confortevoli per rilassarsi mentre si registra"
+
+[params.cta]
+enable = true
+title = "Non preoccuparti della burocrazia"
+body = "Scrivere/Registrare/Editare un Podcast o una Trasmissione Radio non è uno scherzo, parla con noi per capire come e quando sono dovuti i compensi per i diritti d'autore e quanto costa Hostare un Podcast sulle piattaforme più importanti"
+
+[[params.cta.link]]
+href = "https://calendly.com/powerupstudio/30-min-chat"
+text = "Parla Con Noi!"
+special = true
+
+[params.contact]
+enable = true
+title = "Contatti"
+body = "Per Comunicazioni Asincrone"
+#phone = "+39 3294967991"
+address = "Campi Bisenzio - Firenze"
+subject = "Nuovo Contatto da PowerUpStusio.it"
+formspree_form_id = "mnqkqokb"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = ""
+facebook = ""
+youtube = ""
+instagram = ""
+dribble = ""
