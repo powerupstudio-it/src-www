@@ -85,7 +85,7 @@ body = "Scegli la formula che preferisci: lavora con noi all'editing usufruendo 
 
 [[params.three.feature]]
 icon = "solid fa-headphones-alt"
-title = "Ascolta tutto  quello che registri!"
+title = "In cuffia c'è tutto  quello che registri!"
 body = "Tieni sempre un orecchio su quello che registri, e su i volumi di ogni voce che si aggiunge al tuo Podcast. In ognuna delle nostre location potrai usufruire di cuffie monitor esattamente come tu fossi in Radio."
 
 [[params.three.feature]]
@@ -95,8 +95,8 @@ body = "Non si vive solo di Podcast, ed in caso tu volessi registrare una trasmi
 
 [[params.three.feature]]
 icon = "solid fa-bullhorn"
-title = "Non dimentichiamoci..."
-body = "Abbiamo a disposizione un campionatore per 'giocare con i suoni' e dare un pizzico di spirito alle tue trasmissioni (programmabile con una scheda micro SD), microfoni a condensatore e cardioide per la riduzione del rumore, ed ambienti confortevoli per rilassarsi mentre si registra"
+title = "Ed Ancora Trovi..."
+body = "Un campionatore personalizzabile basta una SD, microfoni a condensatore e cardioide per la riduzione del rumore, ed ambienti confortevoli per rilassarsi mentre si registra"
 
 [params.cta]
 enable = true
