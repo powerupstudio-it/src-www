@@ -4,6 +4,8 @@ languageCode = 'it'
 defaultContentLanguage = "it"
 title = '-- Power-Up Studio --'
 theme = 'spectral'
+googleAnalytics = 'G-V95GCHCF5B'
+
 [params]
 staticDir = ['/static']
 pretitle = 'ben arrivati'
