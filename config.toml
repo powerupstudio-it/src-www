@@ -4,7 +4,7 @@ languageCode = 'it'
 defaultContentLanguage = "it"
 title = '-- Power-Up Studio --'
 theme = 'spectral'
-googleAnalytics = 'G-5M7PSZDMJE'
+googleAnalytics = 'G-5M7PSZDMJE' 
 
 [params]
 staticDir = ['/static']
@@ -14,7 +14,7 @@ copyright = 'Website by <a href="//repetitive.it">repetitive.it</a>'
 description = 'Nel Posto Dove si registrano i Podcast.'
 startbuttonText = "Prenota Ora!"
 startbuttonLink = "https://calendly.com/powerupstudio"
-ScrollyLink = "#two"
+ScrollyLink = "#ctamail"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -32,6 +32,9 @@ title = "Cosa Succede In Studio"
 [[params.menu.main]]
 url = '#two'
 title = "Dove Far Sentire La Voce"
+[[params.menu.main]]
+url = '#ctamail'
+title = "Il Corso Gratuito"
 [[params.menu.main]]
 url = '#contact'
 title = "Parla Con Noi"
@@ -109,6 +112,17 @@ body = "Scrivere/Registrare/Editare un Podcast o una Trasmissione Radio non è u
 href = "https://calendly.com/powerupstudio/30-min-chat"
 text = "Parla Con Noi!"
 special = true
+
+[params.ctamail]
+enable = true
+title = "Iscriviti al nostro corso di Podcast"
+body = "Una lezione ogni giorno direttamente nella tua mailbox!"
+
+[[params.ctamail.link]]
+href = "https://calendly.com/powerupstudio/30-min-chat"
+text = "Parla Con Noi!"
+special = true
+
 
 [params.contact]
 enable = true
