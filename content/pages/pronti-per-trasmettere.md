@@ -1,7 +1,7 @@
 ---
 title: "Pronti per Trasmettere"
 date: 2023-07-23T21:21:02+02:00
-draft: true
+draft: false
 ---
 
 ## Grazie per aver confermato la tua iscrizione!
