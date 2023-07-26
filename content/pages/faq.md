@@ -1,5 +1,5 @@
 ---
-title: "Faq"
+title: "EAQ"
 date: 2023-07-26T13:52:50+02:00
 draft: false
 ---
