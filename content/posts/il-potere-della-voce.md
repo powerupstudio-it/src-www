@@ -8,12 +8,11 @@ draft: true
 ### Il Dono Inestimabile delle Parole
 
 
-Oggi parliamo del perché registrare la proprioa voce anche se non per un podcast o una radio; oggi parliamo del registrare la propria voce mentre leggiamo un libro, raccontiamo una storia o, semplicemente, diciamo "Ti Amo", un gesto semplice, ma in realtà è un tesoro di amore e saggezza che possiamo lasciare alle nostre generazioni future.
+Oggi parliamo del perché registrare la proprioa voce, anche se non per un podcast o una radio; oggi parliamo del prché registrare la propria voce mentre leggiamo un libro, raccontiamo una storia o, semplicemente, diciamo "Ti Amo", un gesto semplice, ma in realtà è un tesoro che possiamo lasciare alle nostre generazioni future.
 
-Immaginate: un giovane bambino, forse un nipote, un figlio o un amico di un giorno, siede in una stanza silenziosa. Prende un vecchio registratore o un moderno dispositivo digitale e preme il pulsante "play". Improvvisamente, la voce di qualcuno che ha amato profondamente entra nella stanza come una dolce melodia, riempiendola di emozioni e connessioni intime.
+Immaginate: un giovane bambino, forse un nipote, un figlio o un amico, siede in una stanza silenziosa. Prende un vecchio registratore o un moderno dispositivo digitale e preme il pulsante "play". Improvvisamente, la voce di qualcuno che ha amato profondamente entra nella stanza come una dolce melodia, riempiendola di emozioni e connessioni intime.
 
-Che sensazione straordinaria sarebbe?
-È come ricevere un abbraccio dalla persona amata, anche se è già passata nel regno dei ricordi. Il suono delle loro parole riporta alla vita i momenti condivisi, le lezioni apprese, e ogni risata e pianto condiviso.
+Sarebbe come ricevere un abbraccio dalla persona amata, anche se è già passata nel regno dei ricordi. Il suono delle loro parole riporta alla vita i momenti condivisi, le lezioni apprese, e ogni risata e pianto condiviso.
 
 È umano voler essere ricordati, desiderare lasciare un segno indelebile nel cuore di coloro che amiamo. Registriamo le nostre voci nella speranza che questa traccia possa illuminare il cammino delle persone a cui vogliamo bene. Quando non saremo più qui fisicamente, sarà un conforto sapere che le nostre parole sopravviveranno al passare del tempo.
 
