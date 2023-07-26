@@ -39,3 +39,6 @@ R: Al momento no, non siamo ancora attrezzati, forse in un futuro prossimo.
 
 **D: Una volta che ho registrato la mia performance, posso portarmi via i files per mixarli?**  
 R: Assolutamente si! Da Power-Up Studio paghi per il servizio di registrazione e se vuoi portarti a casa i tuoi files ti consigliamo di venire munito di supporto digitale di spazio adeguato per portarti via i files; per l'editing o il mixaggio, se c'è interesse, ne parliamo sul momento.
+
+**D: Ma posso fare streaming della mia radio direttamente dal vostro studio?**
+R: Sicuro, entra in contatto con noi e ne parliamo   
