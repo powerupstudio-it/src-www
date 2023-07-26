@@ -9,7 +9,7 @@ draft: false
 R: Power-Up Studio è un micro studio di registrazione dedicato a chi vuole fare Podcasting, registrare trasmissioni da mettere poi online in radio oppure direttamente per lo streaming-registrazioni sulle piattaforme radio online più diffuse.
 
 **D: A chi si rivolge il servizio di Power-Up Studio?**  
-R: A chiunque abbia una storia da raccontare, persone da far divertire, nuovi clienti da scoprire; i creativi in generale, quelli che non si sentono creativi ma vogliono provare, a chi vuol lasciare una pensiero registrato invece che solo scritto, ed a chi vuol far diventare un libro un audiolibro.
+R: A chiunque abbia una storia da raccontare, persone da far divertire, nuovi clienti da scoprire; i creativi in generale, quelli che non si sentono creativi ma vogliono provare, a chi vuol lasciare una pensiero registrato invece che solo scritto, ed a chi vuol scrivere un audiolibro.
 
 **D: Perché c'è bisogno di Power-Up Studio**  
 R: Principalmente perché non crediamo esista sul mercato un'offerta che incoraggi le persone e le aziende a registrare.   
@@ -37,5 +37,5 @@ R: Al momento no, non siamo ancora attrezzati, forse in un futuro prossimo.
 **D: Una volta che ho registrato la mia performance, posso portarmi via i files per mixarli?**  
 R: Assolutamente si! Da Power-Up Studio paghi per il servizio di registrazione e se vuoi portarti a casa i tuoi files ti consigliamo di venire munito di supporto digitale di spazio adeguato per portarti via i files; per l'editing o il mixaggio, se c'è interesse, ne parliamo sul momento.
 
-**D: Ma posso fare streaming della mia radio direttamente dal vostro studio?**
+**D: Ma posso fare streaming della mia radio direttamente dal vostro studio?**  
 R: Sicuro, entra in contatto con noi e ne parliamo   
