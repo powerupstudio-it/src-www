@@ -42,6 +42,9 @@ title = "Il Corso Gratuito"
 [[params.menu.main]]
 url = '#contact'
 title = "Parla Con Noi"
+[[params.menu.main]]
+url = '/pages/faq'
+title = "Domande Eventuali"
 
 
 [taxonomies]
