@@ -7,6 +7,8 @@ theme = 'spectral'
 googleAnalytics = 'G-5M7PSZDMJE' 
 enableRobotsTXT = false
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
 staticDir = ['/static']
@@ -40,6 +42,9 @@ title = "Il Corso Gratuito"
 [[params.menu.main]]
 url = '#contact'
 title = "Parla Con Noi"
+[[params.menu.main]]
+url = '/pages/faq'
+title = "Domande Eventuali (EAQ)"
 
 
 [taxonomies]
