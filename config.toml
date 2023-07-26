@@ -44,7 +44,7 @@ url = '#contact'
 title = "Parla Con Noi"
 [[params.menu.main]]
 url = '/pages/faq'
-title = "Domande Eventuali"
+title = "Domande Eventuali (EAQ)"
 
 
 [taxonomies]

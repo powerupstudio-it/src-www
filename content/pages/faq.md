@@ -3,10 +3,7 @@ title: "Faq"
 date: 2023-07-26T13:52:50+02:00
 draft: false
 ---
-
-## Q&A
-
-Le nostre risposte alle domande più comuni (Pagina Aggiornata Eventualmente)
+### Le nostre - Eventually Asked Questions - 
 
 **D: Cos'è Power-Up Studio?**  
 R: Power-Up Studio è un micro studio di registrazione dedicato a chi vuole fare Podcasting, registrare trasmissioni da mettere poi online in radio oppure direttamente per lo streaming-registrazioni sulle piattaforme radio online più diffuse.
