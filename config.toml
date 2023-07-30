@@ -6,11 +6,6 @@ theme = 'spectral'
 googleAnalytics = 'G-5M7PSZDMJE' 
 enableRobotsTXT = false
 
-[[redirects]]
-from = '/**'
-status = 404
-to = '/404/'
-
 [params]
 staticDir = ['/static']
 pretitle = 'ben arrivati'
