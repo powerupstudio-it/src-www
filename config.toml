@@ -1,14 +1,10 @@
 baseURL = 'http://powerupstudio.it/'
-multilanguage = true
 languageCode = 'it'
 defaultContentLanguage = "it"
 title = '-- Power-Up Studio --'
 theme = 'spectral'
 googleAnalytics = 'G-5M7PSZDMJE' 
 enableRobotsTXT = false
-
-[markup.goldmark.renderer]
-unsafe = true
 
 [params]
 staticDir = ['/static']
