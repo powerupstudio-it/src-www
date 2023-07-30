@@ -27,7 +27,7 @@ E molto altro ancora...
 <h3>Direttamente nella tua email, il corso gratuito di "Podcast"</h3>
 
 Clicca sul link e inserisci la tua email per ricevere la prima lezione:    
-<span style="background-color: #FFFF00">[ISCRIVITI ORA AL CORSO DI PODCAST VIA EMAIL](https://www.powerupstudio.it/#ctamail)</span>
+<span style="background-color: #FFFF00">[ISCRIVITI ORA AL CORSO DI PODCAST VIA EMAIL](https://powerupstudio.it/#ctamail)</span>
 
 Ecco alcune delle cose che imparerai durante il corso:
 
@@ -36,7 +36,7 @@ Ecco alcune delle cose che imparerai durante il corso:
 - Come registrare e montare
 - Come promuovere il tuo podcast
 
-[***Inizia oggi stesso!***](https://www.powerupstudio.it/#ctamail)    
+[***Inizia oggi stesso!***](https://powerupstudio.it/#ctamail)    
 
 ----------------------------------------------- 
 
