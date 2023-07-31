@@ -13,7 +13,7 @@ fancyTitle = "Power-Up Studio" # title for frontpage, may include image
 copyright = 'Website by <a href="//repetitive.it">repetitive.it</a>'
 description = 'Nel Posto Dove si registrano i Podcast.'
 startbuttonText = "Prenota Ora!"
-startbuttonLink = "https://calendly.com/powerupstudio"
+startbuttonLink = "https://calendly.com/powerupstudio/30-min-chat"
 ScrollyLink = "#ctamail"
 body_is_markdown = true
 #custom_css = "foo.css"
