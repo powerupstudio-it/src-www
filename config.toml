@@ -45,7 +45,7 @@ title = "Domande Eventuali (EAQ)"
 
 [taxonomies]
 tag = "tags"
-category = "categories"
+category = "categorie"
 
 
 [params.one]
@@ -61,7 +61,7 @@ enable = true
 [[params.two.section]]
 img = "img/pic01.jpg"
 title = 'Venue 1 - Interno Zero'
-body = 'Uno spazio polifunzionale utilizzato di giorno come Shared Office e la sera come studio. Adatto per registrazioni Podcast e Radio; può ospitare fino a 3 persone ed eventi remoti'
+body = 'Uno spazio polifunzionale adatto per registrazioni Podcast e Radio; può ospitare fino a 3 persone ed eventi remoti'
 
 [[params.two.section]]
 img = "img/pic02.jpg"
