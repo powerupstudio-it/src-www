@@ -46,7 +46,7 @@ title = "Domande Eventuali (EAQ)"
 [taxonomies]
 tag = "tags"
 category = "categories"
-series = "series"
+
 
 [params.one]
 enable = true
@@ -135,12 +135,3 @@ body = "Per Comunicazioni Asincrone"
 address = "Campi Bisenzio - Firenze"
 subject = "Nuovo Contatto da PowerUpStusio.it"
 formspree_form_id = "mnqkqokb"
-
-[params.social]
-twitter = ""
-mastodon = ""
-github = ""
-facebook = ""
-youtube = ""
-instagram = ""
-dribble = ""
