@@ -1,0 +1,10 @@
+<section class="wrapper style5">
+	<div class="inner">
+    <h2><a class="fas fa-tags" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+    <a href="{{ .Permalink }}">{{ i18n "readmore" }}</a>
+    {{ end }}
+	</div>
+</section>
+

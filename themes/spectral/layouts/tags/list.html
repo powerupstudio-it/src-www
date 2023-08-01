@@ -1,15 +1,14 @@
 {{ partial "header.html" . }}
 <article id="main">
   <header>
-    <img src="/img/power-up-banner-mic2.jpg" alt="Header Image" class="header-image">
-    <h2>{{ i18n "allarticles" }}</h2>
-    {{ with .Params.subtitle }}
-    <p>{{ . }}</p>
-    {{ end }}
+    <img src="/img/tags3.jpg" alt="Cloud Tag" class="header-image">
+    <h2>TAGS</h2>
+    Dal blog, le pagine, e tutto il resto
 	</header>
-		{{ range .Paginator.Pages }}
-			{{ partial "summary.html" . }}
-		{{ end }}
+		{{ partial "tagcloud.html" . }}
+    {{ range .Paginator.Pages }}
+    {{ partial "summarytagscloud.html" . }}
+    {{ end }}
     {{ partial "pagination.html" . }}
 </article>
 {{ partial "footer.html" . }}
