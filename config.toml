@@ -1,4 +1,4 @@
-baseURL = 'http://powerupstudio.it/'
+baseURL = 'https://powerupstudio.it/'
 languageCode = 'it'
 defaultContentLanguage = "it"
 title = '-- Power-Up Studio --'
