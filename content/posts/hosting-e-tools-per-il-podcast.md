@@ -3,7 +3,7 @@ title: "Dove Trovare Hosting Gratuito e tools per il sito internet"
 date: 2023-07-28T23:14:54+02:00
 draft: true
 tags: ["website","how-to"]
-categories: ["internet-per-podcasters"]
+categorie: ["internet-per-podcasters"]
 ---
 
 Salve a tutti!

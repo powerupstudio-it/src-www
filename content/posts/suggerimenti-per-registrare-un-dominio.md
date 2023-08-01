@@ -3,7 +3,7 @@ title: "Suggerimenti per Registrare Un Dominio"
 date: 2023-07-28T22:49:56+02:00
 draft: true
 tags: ["website","how-to"]
-categories: ["internet-per-podcasters"]
+categorie: ["internet-per-podcasters"]
 ---
 
 ## Benvenuti alla prima puntata della serie 'Hosting cosa?'

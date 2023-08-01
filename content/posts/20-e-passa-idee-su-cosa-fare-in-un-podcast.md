@@ -3,7 +3,7 @@ title: "20 e passa idee per riempire un Podcast"
 date: 2023-07-28T22:49:56+02:00
 draft: true
 tags: ["proprio-podcast","idee"]
-categories: ["how-to-podcast"]
+categorie: ["how-to-podcast"]
 ---
 
 ## 20 Idee Da Podcast!
