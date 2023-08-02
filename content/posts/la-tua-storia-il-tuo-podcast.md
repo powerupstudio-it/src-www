@@ -1,7 +1,8 @@
 ---
 title: "La tua Storia, Il Tuo Podcast"
-date: 2023-07-20T00:43:44+02:00
+date: (FINITO DA AGGIORNARE)
 draft: true
+tags: ["idee", "proprio-podcast"]
 ---
 
 Se hai in mente una storia, scrivere e registrare un podcast può offrirti una serie di vantaggi unici che potrebbero rendere questa forma di narrazione la scelta perfetta per te. 

@@ -1,7 +1,8 @@
 ---
 title: "Il Potere Della Voce"
-date: 2023-07-25T18:05:00+02:00
+date: (FINITO DA AGGIORNARE)
 draft: true
+tags: ["idee","voce"]
 ---
 
 ## Lasciare un Eco d'Amore: 
