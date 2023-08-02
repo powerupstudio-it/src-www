@@ -105,7 +105,7 @@ body = "Non si vive solo di Podcast, ed in caso tu volessi registrare una trasmi
 [[params.three.feature]]
 icon = "solid fa-bullhorn"
 title = "Ed Ancora Trovi..."
-body = "Un campionatore personalizzabile basta una SD, microfoni a condensatore e cardioide per la riduzione del rumore, ed ambienti confortevoli per rilassarsi mentre si registra"
+body = "Un campionatore personalizzabile, microfoni a condensatore e cardioide per la riduzione del rumore, ed ambienti confortevoli per rilassarsi mentre si registra"
 
 [params.cta]
 enable = true
