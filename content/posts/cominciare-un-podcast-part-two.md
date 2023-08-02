@@ -10,19 +10,20 @@ categorie: ["how-to-podcast"]
 ### Formato dello show
 ***Durata***
 
-La durata di un podcast èforse la cosa pi
-Potresti trovare molti "esperti" che parlano di quali tempi siano migliori/preferibili/perfetti per i podcast.
-Secondo0 noi, il problema con questi esperti è che son solo opinioni personali.
+La durata di un podcast è forse uno degli argomenti più dibattuti da chiunque aiuta a fare e fa Podcasts.
+
+Potresti trovare molti "esperti" che parlano di quali tempi siano migliori/preferibili/perfetti e secondo noi, il problema con questi esperti è che alla fine danno solo opinioni personali.
 
 Un podcast dura quanto dura, sono i contenuti che sono importanti ed il passo della trasmissione.   
 Non credere a chi ti dice che 37 minuti sia il tempo ideale perché rappresenta la media del tempo che i pendolari stanno sul treeno...
 
-Ci sono podcast di 5 minuti e podcast di 6 ore. Trova quello che funziona per te e non stare a pensarci troppo!
+Ci sono podcast di 5 minuti e podcast di 2 ore.    
+Trova quello che funziona per te e non stare a pensarci troppo!
 
-Quello che dovresti evitare è di renderlo più lungo di quanto sia necessario andando a parlare di cose non inerenti.
+Quello che dovresti evitare è di renderlo più lungo di quanto sia necessario andando a parlare di cose non inerenti al tema o al formato della trasmissione.
 
-Ecco un'ottima immagine di Pop Up Podcasting che mostra "facile, buono o lungo - scegli due":
-
+Un poà come il detto "fatto bene, fatto in fretta, fatto al risparmio; scegline solo due" il podcast si fa "intenso, lungo, easy listening; scegline solo due"
+ 
 Gli show di interviste sono popolari, ma questo non significa che tu debba farne uno.
 
 Puoi fare show solisti (o con un co-conduttore) metà del tempo e show di interviste l'altra metà.
