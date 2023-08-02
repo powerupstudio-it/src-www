@@ -1,11 +1,11 @@
 {{ partial "header.html" . }}
 <article id="main">
   <header>
-    <img src="/img/tags3.jpg" alt="Cloud Tag" class="header-image">
-    <h2>TAGS</h2>
-    Dal blog, le pagine, e tutto il resto
+    <img src="/img/serie.jpg" alt="Serie" class="header-image">
+    <h2>Serie</h2>
+    Le serie di articoli più utili
 	</header>
-		{{ partial "tagcloud.html" . }}
+		{{ partial "seriecloud.html" . }}
     {{ range .Paginator.Pages }}
     {{ partial "summarytagscloud.html" . }}
     {{ end }}

@@ -1,7 +1,9 @@
 ---
 title: "Accellera Il Processo Di Acquisizione Leads"
-date: 2023-07-19T23:54:47+02:00
+date: (FINITO DA AGGIORNARE)
 draft: true
+tags: ["idee","how-to", "proprio-podcast"]
+categorie: ["Marketing"]
 ---
 
 ## Che Vantaggi Ti Porta Registrare Un Podcast Aziendale?

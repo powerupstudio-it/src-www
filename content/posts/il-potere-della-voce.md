@@ -1,7 +1,8 @@
 ---
 title: "Il Potere Della Voce"
-date: 2023-07-25T18:05:00+02:00
+date: (FINITO DA AGGIORNARE)
 draft: true
+tags: ["idee","voce"]
 ---
 
 ## Lasciare un Eco d'Amore: 
@@ -22,6 +23,6 @@ Non possiamo sapere cosa riserverà il futuro, ma possiamo essere certi che la n
 
 Immaginate il sorriso sul volto dei nostri cari quando ascolteranno la nostra voce dopo tanto tempo. Le parole che avevamo pronunciato con amore, incise per sempre nelle loro menti e nei loro cuori, li avvolgeranno come un abbraccio.
 
-Prendete una pausa dalla frenesia della vita e dedicate un momento per scrivere e registrare le vostre parole con la vostra voce, parole dedicate a coloro che tenete in un posto speciale nel vostro cuore. È un regalo senza prezzo, una prova d'amore destinata a rimanere nell'eternità.
+Prendete una pausa dalla frenesia della vita e dedicate un momento per scrivere e registrare le vostre parole con la vostra voce, parole dedicate a coloro che tenete in un posto speciale nel vostro cuore. È un regalo senza prezzo, una prova d'amore destinata a rimanere (evantualmente) nell'eternità.
 
-E così, lasciamo un eco d'amore alle generazioni future. Attraverso la nostra voce, nutriamo il legame delle relazioni che contano, e ci avviciniamo a coloro che un giorno ci ricorderanno con amore e gratitudine.
+E così facendo lasceremo un eco d'amore alle generazioni future. Attraverso la nostra voce, nutriamo il legame delle relazioni che contano, e ci avviciniamo a coloro che un giorno ci ricorderanno, speriamo noi, con amore e gratitudine.

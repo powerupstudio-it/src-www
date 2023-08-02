@@ -1,0 +1,49 @@
+{{ $fontSmall := .Page.Params.design.font_size_min | default 0.9 }}
+{{ $fontBig := .Page.Params.design.font_size_max | default 2.5 }}
+{{ $fontDelta := sub $fontBig $fontSmall }}
+
+{{/* read "categories"... */}}
+{{ $data := .Site.Taxonomies.categorie.ByCount }}
+
+{{/* read "categories"
+     and add this information to the data array...  */}}
+
+
+{{/* output goes here...  */}}
+
+{{ if ne (len $data) 0 }}
+
+	{{/* Warning:
+			Hugo's `Reverse` function appears to operate in-place,
+			hence the order of performing $max/$min matters.
+	*/}}
+
+	{{ $max := add (len (index $data 0).Pages) 1 }}
+	{{ $min := len (index ($data).Reverse 0).Pages }}
+	{{ $delta := sub $max $min }}
+	{{ $fontStep := div $fontDelta $delta }}
+
+	<div div style="text-align: center;" style="background-color:rgb(7, 7, 7);padding:5px">
+	<div div style="text-align: center;" style="margin-top: 0px;">
+	<div div style="text-align: center;">
+
+		<div style="text-align: center;">
+		{{ range $item := (sort $data ".Page.Title" "asc") }}
+
+			{{ $tagCount := len $item.Pages }}
+			{{ $weight := div (sub (math.Log $tagCount) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+			{{ $fontSize := add $fontSmall (mul (sub $fontBig $fontSmall) $weight) }}
+            {{ if ne (upper .Page.Title) "ARCHIVED" }}
+				<a href="{{ .Page.RelPermalink }}" style="font-size:{{ $fontSize }}rem">
+					{{ .Page.Title | upper }}
+					<span style="color: LightGrey; font-size:{{ $fontSmall }}rem"> ({{ $tagCount }}) </span>
+				</a>
+			{{ end }}
+
+		{{ end }}
+		</div>
+
+	</div>
+	</div>
+	</div>
+{{ end }}

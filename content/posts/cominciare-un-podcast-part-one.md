@@ -3,7 +3,7 @@ title: "Cominciare Con Un Podcast - Part I"
 date: 2023-07-28T23:57:05+02:00
 draft: true
 tags: ["how-to"]
-categories: ["how-to-podcast"]
+categorie: ["how-to-podcast"]
 ---
 
 
