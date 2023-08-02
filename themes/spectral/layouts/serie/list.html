@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+<article id="main">
+  <header>
+    <img src="/img/serie.jpg" alt="Serie" class="header-image">
+    <h2>Serie</h2>
+    Le serie di articoli più utili
+	</header>
+		{{ partial "seriecloud.html" . }}
+    {{ range .Paginator.Pages }}
+    {{ partial "summarytagscloud.html" . }}
+    {{ end }}
+    {{ partial "pagination.html" . }}
+</article>
+{{ partial "footer.html" . }}
