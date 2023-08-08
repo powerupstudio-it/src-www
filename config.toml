@@ -5,10 +5,11 @@ title = '-- Power-Up Studio --'
 theme = 'spectral'
 googleAnalytics = 'G-5M7PSZDMJE' 
 enableRobotsTXT = false
+disqusShortname = 'powerupstudio'
 
 [params]
 staticDir = ['/static']
-pretitle = 'ben arrivati'
+pretitle = 'ben arrivati su'
 fancyTitle = "Power-Up Studio" # title for frontpage, may include image
 copyright = 'Website by <a href="//repetitive.it">repetitive.it</a>'
 description = 'Il Posto Dove si registrano i Podcast.'
@@ -41,6 +42,15 @@ title = "Parla Con Noi"
 [[params.menu.main]]
 url = '/pages/faq'
 title = "Domande Eventuali (EAQ)"
+[[params.menu.main]]
+url = '/serie/'
+title = "Esplora per Serie"
+[[params.menu.main]]
+url = '/categorie/'
+title = "Esplora per Categoria"
+[[params.menu.main]]
+url = '/tags/'
+title = "Esplora per Tag"
 
 
 [taxonomies]
@@ -105,7 +115,7 @@ body = "Non si vive solo di Podcast, ed in caso tu volessi registrare una trasmi
 [[params.three.feature]]
 icon = "solid fa-bullhorn"
 title = "Ed Ancora Trovi..."
-body = "Un campionatore personalizzabile basta una SD, microfoni a condensatore e cardioide per la riduzione del rumore, ed ambienti confortevoli per rilassarsi mentre si registra"
+body = "Un campionatore personalizzabile, microfoni a condensatore e cardioide per la riduzione del rumore, ed ambienti confortevoli per rilassarsi mentre si registra"
 
 [params.cta]
 enable = true

@@ -1,7 +1,7 @@
 ---
 title: "Dove Trovare Hosting Gratuito e tools per il sito internet - Prima Parte"
-date: (FINITO DA AGGIORNARE)
-draft: true
+date: 2023-08-08T09:53:22+02:00
+draft: false
 tags: ["website","how-to"]
 categorie: ["internet-per-podcasters"]
 ---
@@ -23,8 +23,9 @@ In generale parleremo di:
     - Come si usa un Dominio per la posta?
     - Dove la metto la posta?
 - Tools di marketing
-    - Gestione mailing liset
+    - Gestione mailing list
     - Automazioni su mailing list
+    - Commenti e forums
 - Providers di spazio e servizi; quanto costano e cosa possono fare
     - GitHub
     - IONOS
