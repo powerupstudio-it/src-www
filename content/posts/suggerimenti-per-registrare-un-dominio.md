@@ -7,10 +7,10 @@ categorie: ["internet-per-podcasters"]
 serie: ["hosting"]
 ---
 
-## Benvenuti alla prima puntata della serie 'Hosting cosa?'
-### Ovvero come cavarci i piedi se non siete esperti di computer
+### Benvenuti alla prima puntata della serie 'Hosting cosa?'
+#### Ovvero come cavarci i piedi se non siete esperti di computer
 
-#### BENVENUTO!!
+##### BENVENUTO!!
 Se sei approdato su questi lidi vuol dire che hai intenzione di avviare un podcast e che sei alla ricerca di un nome e possibilmente di un nome a dominio dominio personalizzato!
 
 Ma perché ci serve un nome a dominio?  
