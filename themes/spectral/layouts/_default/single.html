@@ -10,12 +10,8 @@
 	<section class="wrapper style5">
 		<div class="inner">
       {{ .Content }}
+      {{ template "_internal/disqus.html" . }}
 		</div>
-    <section id="cta" class="wrapper style6" text-align="center">
-      <div class="inner">
-    {{ template "_internal/disqus.html" . }}
-  </div>
-</section>
 	</section>
 </article>
 <section id="cta" class="wrapper style6" text-align="center">
