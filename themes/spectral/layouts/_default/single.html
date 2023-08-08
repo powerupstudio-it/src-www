@@ -11,9 +11,10 @@
 		<div class="inner">
       {{ .Content }}
 		</div>
+    {{ template "_internal/disqus.html" . }}
 	</section>
 </article>
-<section id="ctamlist" class="wrapper style6" text-align="center">
+<section id="cta" class="wrapper style6" text-align="center">
   <div class="inner">
 <table>
   <tr>
@@ -34,7 +35,7 @@
   <input type="hidden" name="meta_required" value="email" />
   <input type="hidden" name="meta_tooltip" value="" />
 </div>
-  <div class="col-12-xsmall">
+<div class="col-6 col-12-xsmall">
     <label for="email"></label><input aria-labelledby="email"  class="text" id="awf_field-116025006" type="text" name="email" placeholder="Email" tabindex="200" />
     <label for="nome"></label><input aria-labelledby="nome" class="text" id="awf_field-116025006" type="text" name="name" placeholder="Nome" tabindex="200" />
   </div>
