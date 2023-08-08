@@ -5,7 +5,7 @@ title = '-- Power-Up Studio --'
 theme = 'spectral'
 googleAnalytics = 'G-5M7PSZDMJE' 
 enableRobotsTXT = false
-disqusShortname = 'powerupstudio.disqus.com'
+disqusShortname = 'powerupstudio'
 
 [params]
 staticDir = ['/static']
