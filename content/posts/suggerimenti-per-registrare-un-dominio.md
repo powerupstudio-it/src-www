@@ -1,7 +1,7 @@
 ---
 title: "Suggerimenti per Registrare Un Dominio"
 date: (FINITO DA AGGIORNARE)
-draft: true
+draft: false
 tags: ["website","how-to"]
 categorie: ["internet-per-podcasters"]
 serie: ["hosting"]
