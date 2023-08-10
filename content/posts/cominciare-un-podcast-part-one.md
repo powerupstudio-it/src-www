@@ -38,7 +38,7 @@ Ecco alcune delle cose che imparerai durante il corso:
 - Come registrare e montare
 - Come promuovere il tuo podcast
 
-[***Inizia oggi stesso!***](https://powerupstudio.it/#ctamail)    
+[***Inizia ADESSO!***](https://powerupstudio.it/#ctamail)    
 
 ----------------------------------------------- 
 
@@ -95,6 +95,6 @@ Scegli invece un nome che ti consenta di espanderti in futuro, magari qualcosa d
 
 Passo successivo? Acquista un nome a dominio per il tuo podcast, informazioni su come registrare un dominio ed alcuni accorgimenti per semplificarti la vita li trovi a questo link -> [Come Si Fa Per Registrare Un Dominio](https://powerupstudio.it/posts/suggerimenti-per-registrare-un-dominio/).
 
-Ho anche scritto un'articolo su come scegliere un servizio di Hosting e quali tool potrebbero aiutarti a gestire la rappresentanza online del tuo podcast -> [Tipi di Hosting e Tools per il Podcast](https://powerupstudio.it/posts/hosting-e-tools-per-il-podcast/)
+Ho anche scritto un'articolo su come scegliere un servizio di Hosting e quali tool potrebbero aiutarti a gestire la rappresentanza online del tuo podcast -> [Tipi di Hosting e Tools per il Podcast](https://powerupstudio.it/posts/hosting-e-tools-per-il-podcast-part-one/)
 
-A questo punto ci sembra di aver messo abbastanza carne al fuoco, ci risentiamo la prossima settimene per un'altra parte della noppstra guida!
+A questo punto ci sembra di aver messo abbastanza carne al fuoco, ci risentiamo la prossima settimana per un'altra parte della nostra guida!
