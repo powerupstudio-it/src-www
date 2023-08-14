@@ -4,7 +4,7 @@ date: 2023-08-14T12:40:22+02:00
 draft: false
 tags: ["how-to"]
 categorie: ["how-to-podcast"]
-serie: ["hosting"]
+serie: ["cominciare-a-fare-podcast"]
 ---
 
 
