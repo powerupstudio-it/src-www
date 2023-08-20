@@ -1,7 +1,7 @@
 ---
 title: "La tua Storia, Il Tuo Podcast"
-date: (FINITO DA AGGIORNARE)
-draft: true
+date: 2023-08-20T11:51:06+02:00
+draft: false
 tags: ["idee", "proprio-podcast"]
 ---
 
