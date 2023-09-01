@@ -5,15 +5,12 @@
     <p>{{ .Site.Params.pretitle | safeHTML }}</p>
     <h2>{{ .Site.Params.fancytitle | safeHTML }}</h2>
     <p>{{ .Site.Params.description | safeHTML }}</p>
-    {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
+    <p><a target="_blank" href="https://goo.gl/maps/hVFnYLGAtWCavuTr5">Mappa</a></p>
+      {{ if and .Site.Params.startbuttonText .Site.Params.startbuttonLink }}
 		<ul class="actions special">
       <li><a href="{{ .Site.Params.StartbuttonLink }}" target="_blank" class="button primary">{{ .Site.Params.StartbuttonText }}</a></li>
 		</ul>
     {{ end }}
-<br>
-<br>
-    <p>Power-Up Studio è a Campi Bisenzio in provincia di Firenze</p>
-    <a target="_blank" href="https://goo.gl/maps/hVFnYLGAtWCavuTr5">Vai alla Mappa</a>
 	</div>
   <a href="{{ .Site.Params.ScrollyLink }}" class="more scrolly">{{ i18n "learnmore" }}</a>
 </section>
