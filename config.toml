@@ -12,7 +12,7 @@ staticDir = ['/static']
 pretitle = 'ben arrivati su'
 fancyTitle = "Power-Up Studio" # title for frontpage, may include image
 copyright = 'Website by <a href="//repetitive.it">repetitive.it</a>'
-description = 'Il Posto Dove si registrano i Podcast.'
+description = 'Il Posto Dove si registrano i Podcast a Firenze.'
 startbuttonText = "Prenota Ora!"
 startbuttonLink = "https://calendly.com/powerupstudio/30-min-chat"
 ScrollyLink = "#ctamail"
@@ -29,28 +29,28 @@ url = '#one'
 title = "Il Controvalore"
 [[params.menu.main]]
 url = '/posts'
-title = "Cosa Succede In Studio"
+title = "Blog & News"
 [[params.menu.main]]
 url = '#two'
-title = "Dove Far Sentire La Voce"
+title = "Dove Registriamo"
 [[params.menu.main]]
 url = '#ctamail'
-title = "Il Corso Gratuito"
+title = "Corso di Podcast"
 [[params.menu.main]]
 url = '#contact'
-title = "Parla Con Noi"
+title = "Contatti - Parla Con Noi"
 [[params.menu.main]]
 url = '/pages/faq'
 title = "Domande Eventuali (EAQ)"
-[[params.menu.main]]
-url = '/serie/'
-title = "Esplora per Serie"
-[[params.menu.main]]
-url = '/categorie/'
-title = "Esplora per Categoria"
-[[params.menu.main]]
-url = '/tags/'
-title = "Esplora per Tag"
+# [[params.menu.main]]
+# url = '/serie/'
+# title = "Esplora per Serie"
+# [[params.menu.main]]
+# url = '/categorie/'
+# title = "Esplora per Categoria"
+# [[params.menu.main]]
+# url = '/tags/'
+# title = "Esplora per Tag"
 
 
 [taxonomies]
@@ -143,6 +143,6 @@ enable = true
 title = "Contatti"
 body = "Per Comunicazioni Asincrone"
 #phone = "+39 3294967991"
-address = "Campi Bisenzio - Firenze"
+#address = "Campi Bisenzio - Firenze"
 subject = "Nuovo Contatto da PowerUpStusio.it"
 formspree_form_id = "mnqkqokb"
