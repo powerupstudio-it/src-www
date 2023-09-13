@@ -1,7 +1,7 @@
 ---
-title: "Accellera Il Processo Di Acquisizione Leads"
-date: (FINITO DA AGGIORNARE)
-draft: true
+title: "Il Podcast Accellera Il Processo Di Acquisizione Leads"
+date: 2023-09-13T11:25:27+02:00
+draft: false
 tags: ["idee","how-to", "proprio-podcast"]
 categorie: ["Marketing"]
 ---
