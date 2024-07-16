@@ -1,7 +1,7 @@
 ---
 title: "Il Potere Della Voce"
 date: 2024-07-16T16:03:35+02:00
-draft: true
+draft: false
 tags: ["idee","voce"]
 ---
 
